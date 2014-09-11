@@ -6,6 +6,7 @@ Time spent: 2 hours spent in total
 
 Completed user stories:
 
+ * [x] Required: Basic tip calculator functionality of entering bill amount and choosing tip percentage
  * [x] Required: Settings Page that allows the user to set and store a default tip percentage
 
 Notes:
