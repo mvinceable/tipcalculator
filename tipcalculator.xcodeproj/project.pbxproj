@@ -59,7 +59,7 @@
 		200CB28019C03CCE00D96961 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
 		200CB28119C03CCE00D96961 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		200CB28219C03CCE00D96961 /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
-		20240E4519C132CF00914433 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		20240E4519C132CF00914433 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = tipcalculator/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +89,7 @@
 		200CB24019C02F2200D96961 = {
 			isa = PBXGroup;
 			children = (
+				20240E4519C132CF00914433 /* README.md */,
 				200CB25219C02F2200D96961 /* tipcalculator */,
 				200CB26B19C02F2200D96961 /* tipcalculatorTests */,
 				200CB24B19C02F2200D96961 /* Frameworks */,
@@ -129,7 +130,6 @@
 				200CB28119C03CCE00D96961 /* SettingsViewController.m */,
 				200CB28219C03CCE00D96961 /* SettingsViewController.xib */,
 				200CB27D19C0304A00D96961 /* TipViewController.xib */,
-				20240E4519C132CF00914433 /* README.md */,
 			);
 			path = tipcalculator;
 			sourceTree = "<group>";
